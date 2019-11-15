@@ -3,8 +3,8 @@
 Este repositório tem por objetivo disponibilizar os arquivos de código-fonte utilizados para desenvolvimento do Trabalho de Conclusão de Curso da pós-graduação Latu Senso em Eletrônica Embarcada co Centro Universitário Salesiano de São Paulo - UNISAL Campus São José.
 
 Autores:
-Elton Pessim de Rezende 
-Gabriel Mesquita de Paula 
+Elton Pessim de Rezende
+Gabriel Mesquita de Paula
 Marcos Vinicius Gonçalves
 
 Orientador:
